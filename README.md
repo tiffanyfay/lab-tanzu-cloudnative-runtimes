@@ -21,5 +21,3 @@ URL for accessing the training portal run:
 ```
 kubectl get trainingportal/tanzu-cloudnative-runtimes
 ```
-
-
